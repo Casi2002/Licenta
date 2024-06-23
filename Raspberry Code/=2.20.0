@@ -1,0 +1,9 @@
+Looking in indexes: https://pypi.org/simple, https://www.piwheels.org/simple
+Collecting requests
+  Using cached https://www.piwheels.org/simple/requests/requests-2.32.3-py3-none-any.whl (64 kB)
+Requirement already satisfied: charset-normalizer<4,>=2 in ./myenv/lib/python3.11/site-packages (from requests) (3.3.2)
+Requirement already satisfied: idna<4,>=2.5 in ./myenv/lib/python3.11/site-packages (from requests) (3.7)
+Requirement already satisfied: urllib3<3,>=1.21.1 in ./myenv/lib/python3.11/site-packages (from requests) (1.26.18)
+Requirement already satisfied: certifi>=2017.4.17 in ./myenv/lib/python3.11/site-packages (from requests) (2024.6.2)
+Installing collected packages: requests
+Successfully installed requests-2.32.3
